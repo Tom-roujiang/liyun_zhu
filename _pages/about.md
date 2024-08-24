@@ -7,11 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. Currently, he is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. [Chen Chen](https://www.crcv.ucf.edu/chenchen/) (UCF). He is deeply passionate about computer vision and machine learning, with a particular focus on anomaly detection, video understanding, large language models, and face forgery detection.
+Liyun Zhu is a second year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). He is currently conducting research under the joint supervision of [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida). Liyun's research interests lie at the intersection of computer vision and machine learning, with a particular focus on video anomaly detection, video understanding, large language models, and face forgery detection. 
 
-Before this, he obtained his Bachelor's degree in Electronic Engineering from Shanghai University in 2019, where he was supervised by Prof. Yongfang Wang. Liyun also has extensive internship experience in the industry, having worked as a Model Optimization Intern at Biren Tech, a leading semiconductor unicorn in China, where he focused on optimizing LLM performance in distributed systems. He also served as a Research Intern at Active Intelligence, contributing to a research paper during his time there, and worked as an Algorithm Intern at Anji Tech, where he focused on the industrial implementation of anomaly detection systems.
+Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie-ie.shu.edu.cn/info/1078/1146.htm). During his undergraduate studies, Liyun participated in Shanghai University's Outstanding Undergraduate Program, initiating his research in this specialized field.
 
-In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023.
+His academic journey is complemented by extensive industry experience. As a Model Optimization Intern at Biren Tech, a leading Chinese semiconductor company, Liyun contributed to research on advanced large language models and optimized LLM performance in distributed systems across 16 nodes and 128 GPUs. In 2023, he served as a Research Intern at Active Intelligence (Australia), where he developed advanced anomaly detection algorithms and contributed to a novel dataset. Earlier, as an Algorithm Intern at Anji Tech, he focused on the industrial implementation of anomaly detection systems.
+
+<!-- In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023. During his undergraduate studies, he was awarded the Self-improvement Scholarship for his outstanding academic achievements.  -->
+
+Liyun's academic achievements have garnered recognition. He was awarded the Active Intelligence Research Challenge Award in 2023 and received the Self-improvement Scholarship during his undergraduate studies for outstanding academic performance. Additionally, as an undergraduate, he was an active member of the university debate team, winning both the championship and Best Debater title in school-level competitions. His debating skills also earned him numerous honors in city-wide contests.
+
+**Education**
+------
+**Master of Machine Learning and Computer Vision** - Australian National University (ANU), 2023 - present
+
+**Bachelor of Electronic Engineering** - Shanghai University (SHU), 2019 - 2023
+
+
 
 <!-- Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. He is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. Chen Chen (UCF).
 
