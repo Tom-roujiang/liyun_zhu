@@ -1,15 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. Currently, he is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. [Chen Chen](https://www.crcv.ucf.edu/chenchen/) (UCF). He is deeply passionate about computer vision and machine learning, with a particular focus on anomaly detection, video understanding, large language models, and face forgery detection.
 
-A data-driven personal website
+Before this, he obtained his Bachelor's degree in Electronic Engineering from Shanghai University in 2019, where he was supervised by Prof. Yongfang Wang. Liyun also has extensive internship experience in the industry, having worked as a Model Optimization Intern at Biren Tech, a leading semiconductor unicorn in China, where he focused on optimizing LLM performance in distributed systems. He also served as a Research Intern at Active Intelligence, contributing to a research paper during his time there, and worked as an Algorithm Intern at Anji Tech, where he focused on the industrial implementation of anomaly detection systems.
+
+In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023.
+
+<!-- Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. He is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. Chen Chen (UCF).
+
+He is deeply passionate about computer vision and machine learning, with a particular focus on anomaly detection, video understanding, large language models and face forgery detection. 
+
+In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023. -->
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
