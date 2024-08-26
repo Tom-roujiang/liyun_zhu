@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Liyun Zhu / About Me"
+title                    : "Liyun Zhu"
 title_separator          : "-"
 name                     : "Liyun Zhu"
 description              : "MMLCV student at ANU"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/Tom-roujiang
+  github           : # https://github.com/Tom-roujiang?tab=repositories
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -54,6 +54,7 @@ author:
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
+  github           : https://github.com/Tom-roujiang?tab=repositories
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
