@@ -8,4 +8,4 @@ permalink: /contact/
 
 Email address:	u7778917@anu.edu.au
 
-TIME Lab Website: [[ANU TIME Lab]](https://time.anu.edu.au)
+I am a member of [ANU TIME Lab](https://time.anu.edu.au).

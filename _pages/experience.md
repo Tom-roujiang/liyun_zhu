@@ -29,8 +29,8 @@ a:hover, a:active {
     - Used self-supervised learning and few-shot learning methods, the model is trained in different scenarios, and then fine-tuned in specific scenarios, which improves the generalization of the model. The AUC is increased by 6% on the private dataset and 13% on the public dataset.
 
 
-  - *02/2024 - 04/2023*: **<span style="color: blue;">Visual algorithm intern at ANJI Technology Co., Ltd.</span>, Shanghai, China**
-    - **Summary: Industrial Implementation Anomaly Detecion Systems**
+  - *02/2024 - 04/2023*: **<span style="color: blue;">Computer Vision intern at ANJI Technology Co., Ltd.</span>, Shanghai, China**
+    - **Summary: Industrial Implementation of Anomaly Detecion Systems**
     - Assisted in the development of the intelligent visual security management application, which is mainly used for the anomaly detection of warehouse staff and early warning of security risks.
     - Assisted algorithm engineers in data mining and data slicing, using CenterNet model to obtain abnormal behavior from a large amount of video frames and provide raw data for model training.
     - Independently developed a visual system for detecting the fuses on automobile parts by using OpenCV, to identify whether the fuses at each specific position are installed in place on the image captured by industrial camera.
