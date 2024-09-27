@@ -18,6 +18,10 @@ His academic journey is complemented by extensive industry experience. As a Mode
 Liyun's academic achievements have garnered recognition. He was awarded the Active Intelligence Research Challenge Award in 2023 and received the Self-improvement Scholarship during his undergraduate studies for outstanding academic performance. Additionally, as an undergraduate, he was an active member of the university debate team, winning both the championship and Best Debater title in school-level competitions. His debating skills also earned him numerous honors in city-wide contests.
 
 ## News
+
+
+* 09.2024 One paper has been accepted at **<span style="color: blue;">NeurIPS 2024 Dataset and Benchmark Track</span>, Shanghai, China** (25.3% acceptance rate). 
+
 * 09.2024 Our research on video anomaly detection was showcased through a **poster presentation at the ANU Student Research Conference**. I am honored to be one of the 25 speakers.
 
 
