@@ -13,4 +13,4 @@ permalink: /publications/
 
 ## Preprint Papers
 
-1. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., \& Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **Arxiv**  [[Paper]](https://arxiv.org/abs/2410.01506)  
+1. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **Arxiv**  [[Paper]](https://arxiv.org/abs/2410.01506)  
