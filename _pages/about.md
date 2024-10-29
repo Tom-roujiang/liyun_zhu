@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is a second year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). He is currently conducting research under the joint supervision of [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida). Liyun's research interests lie at the intersection of computer vision and machine learning, with a particular focus on video anomaly detection, video understanding, large language models, and face forgery detection. 
+Liyun Zhu is a second year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). He is currently conducting research under the joint supervision of [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida). Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie.shu.edu.cn/Prof/wangyf.htm). Liyun's research interests lie at the intersection of computer vision and machine learning, with a particular focus on video anomaly detection, video understanding, diffusion model, large language model, and face forgery detection. 
 
-Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie.shu.edu.cn/Prof/wangyf.htm). During his undergraduate studies, Liyun participated in Shanghai University's Outstanding Undergraduate Program, initiating his research in this specialized field.
+<!-- During his undergraduate studies, Liyun participated in Shanghai University's Outstanding Undergraduate Program, initiating his research in this specialized field. -->
 
-His academic journey is complemented by extensive industry experience. As a Model Optimization Intern at Biren Tech, a leading Chinese semiconductor company, Liyun contributed to research on advanced large language models and optimized LLM performance in distributed systems across 16 nodes and 128 GPUs. In 2023, he served as a Research Intern at Active Intelligence (Australia), where he developed advanced anomaly detection algorithms and contributed to a novel dataset. Earlier, as an Algorithm Intern at Anji Tech, he focused on the industrial implementation of anomaly detection systems.
+Liyun's academic journey is complemented by extensive industry experience. As a Model Optimization Intern at Biren Tech, a leading Chinese semiconductor company, Liyun contributed to research on advanced large language models and optimized LLM performance in distributed systems across 16 nodes and 128 GPUs. In 2023, he served as a Research Intern at Active Intelligence (Australia), where he developed advanced anomaly detection algorithms and contributed to a novel dataset. Earlier, as an Algorithm Intern at Anji Tech, he focused on the industrial implementation of anomaly detection systems.
 
 <!-- In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023. During his undergraduate studies, he was awarded the Self-improvement Scholarship for his outstanding academic achievements.  -->
 
-Liyun's academic achievements have garnered recognition. He was awarded the Active Intelligence Research Challenge Award in 2023 and received the Self-improvement Scholarship during his undergraduate studies for outstanding academic performance. Additionally, as an undergraduate, he was an active member of the university debate team, winning both the championship and Best Debater title in school-level competitions. His debating skills also earned him numerous honors in city-wide contests.
+Liyun's academic achievements have garnered recognition. He was awarded the Active Intelligence Research Challenge Award in 2023 and received the Self-improvement Scholarship during his undergraduate studies for outstanding academic performance. 
+
+<!-- Additionally, as an undergraduate, he was an active member of the university debate team, winning both the championship and Best Debater title in school-level competitions. His debating skills also earned him numerous honors in city-wide contests. -->
 
 ## News
 
+* 11.2024 I’ll be joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/) !
+
+* 10.2024 I have completed my master thesis - "Advancing Video Anomaly Detection" at ANU. 
 
 * 09.2024 One paper has been accepted at <span style="color: blue;">NeurIPS 2024 Dataset and Benchmark Track</span> (25.3% acceptance rate). 
 
@@ -27,9 +32,9 @@ Liyun's academic achievements have garnered recognition. He was awarded the Acti
 
 ## Education
 
-* **Master of Machine Learning and Computer Vision** - Australian National University (ANU), 2023 - present
+* **Master of Machine Learning and Computer Vision** - Australian National University (ANU), 2023.07 - 2025.06
 
-* **Bachelor of Electronic Engineering** - Shanghai University (SHU), 2019 - 2023
+* **Bachelor of Electronic Engineering** - Shanghai University (SHU), 2019.09 - 2023.06
 
 <!-- Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. He is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. Chen Chen (UCF).
 

@@ -41,10 +41,12 @@ a:hover, a:active {
     - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span> -->
 
 ## Academic Research
-  - *02/2024 - <span style="color: blue;">present</span>*: **Master's Research Student**
+  - *02/2024 - 01/2024*: **Master's Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
-    - Research project: Video Anomaly Detection: Past, Present and Future
+    - Research project: Advancing Video Anomaly Detection
+    - <span style="color:blue;">One paper has been accepted at NeurIPS 2024 Dataset and Benchmark Track</span>
+    - <span style="color:blue;">Poster presentation at the ANU Student Research Conference</span>
     <!-- - HPC grant: <span style="color:red;">**National Computational Merit Allocation Scheme (NCMAS 2024)**</span> -->
 
   - *11/2023 - 01/2024*: **Summer Research Student**
