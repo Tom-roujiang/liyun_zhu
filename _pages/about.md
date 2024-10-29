@@ -21,9 +21,9 @@ Liyun's academic achievements have garnered recognition. He was awarded the Acti
 
 ## News
 
-* 11.2024 I’ll be joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/) !
+* 11.2024 Joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/).
 
-* 10.2024 I have completed my master thesis - "Advancing Video Anomaly Detection" at ANU. 
+* 10.2024 I have completed my master thesis - "Advancing Video Anomaly Detection". I am deeply grateful to my supervisor, [Dr. Lei Wang](https://leiwangr.github.io), for his guidance and support throughout this journey.
 
 * 09.2024 One paper has been accepted at <span style="color: blue;">NeurIPS 2024 Dataset and Benchmark Track</span> (25.3% acceptance rate). 
 
