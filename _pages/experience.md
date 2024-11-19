@@ -18,7 +18,7 @@ a:hover, a:active {
   - *06/2024 - 08/2024*: **<span style="color: blue;">Model Optimization Intern at Biren Tech</span>, Shanghai, China**
     - **Summary: Large Language Models and Distributed Computing**
     - Verified the stability of large models (such as InternLM with 7B, 70B, and 100B parameters) on a **4-node, 32-GPU setup**, focusing on training and fine-tuning these models in a distributed system.
-    - Optimized the performance of existing large models on domestic GPUs by designing parallel strategies and **conducting performance analysis on a 128-GPU setup**.
+    - Optimized the performance of existing large models on BR GPUs by designing parallel strategies and **conducting performance analysis on a 128-GPU setup**.
     - Conducted preliminary research on optimizing distributed systems for checkpointing and resuming large models, enhancing the efficiency and flexibility of checkpoint saving.
 
 
@@ -41,7 +41,7 @@ a:hover, a:active {
     - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span> -->
 
 ## Academic Research
-  - *02/2024 - 01/2024*: **Master's Research Student**
+  - *02/2024 - 11/2024*: **Master's Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
     - Research project: Advancing Video Anomaly Detection
