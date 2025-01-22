@@ -10,7 +10,8 @@ permalink: /publications/
 
 - **Abstract:** Video Anomaly Detection (VAD) finds widespread applications in security surveillance, traffic monitoring, industrial monitoring, and healthcare. Despite extensive research efforts, there remains a lack of concise reviews that provide insightful guidance for researchers. Such reviews would serve as quick references to grasp current challenges, research trends, and future directions. In this paper, we present such a review, examining models and datasets from various perspectives. We emphasize the critical relationship between model and dataset, where the quality and diversity of datasets profoundly influence model performance, and dataset development adapts to the evolving needs of emerging approaches. Our review identifies practical issues, including the absence of comprehensive datasets with diverse scenarios. To address this, we introduce a new dataset, Multi-Scenario Anomaly Detection (MSAD), comprising 14 distinct scenarios captured from various camera views. Our dataset has diverse motion patterns and challenging variations, such as different lighting and weather conditions, providing a robust foundation for training superior models. We conduct an in-depth analysis of recent representative models using MSAD and highlight its potential in addressing the challenges of detecting anomalies across diverse and evolving surveillance scenarios. Our dataset is available [here](https://msad-dataset.github.io).
 
+2. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **<span style="color: blue;">ICLR 2025</span>**   [[Paper]](https://arxiv.org/abs/2410.01506)  
+
 
 ## Preprint Papers
 
-1. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **Arxiv**  [[Paper]](https://arxiv.org/abs/2410.01506)  
