@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is a second year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). He is currently conducting research under the joint supervision of [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida). Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie.shu.edu.cn/Prof/wangyf.htm). Liyun's research interests lie at the intersection of computer vision and machine learning, with a particular focus on video anomaly detection, video understanding, diffusion model, large language model, and face forgery detection. 
+Liyun Zhu is a second year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). He is currently conducting research under the joint supervision of [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida). Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie.shu.edu.cn/Prof/wangyf.htm). Liyun's research interests lie at the intersection of computer vision and machine learning, with a particular focus on video anomaly detection, video understanding, vision language model, and reasoning. 
 
 <!-- During his undergraduate studies, Liyun participated in Shanghai University's Outstanding Undergraduate Program, initiating his research in this specialized field. -->
 
@@ -20,6 +20,8 @@ Liyun's academic achievements have garnered recognition. He was awarded the Acti
 <!-- Additionally, as an undergraduate, he was an active member of the university debate team, winning both the championship and Best Debater title in school-level competitions. His debating skills also earned him numerous honors in city-wide contests. -->
 
 ## News
+
+* 1.2025 One paper has been accepted at <span style="color: blue;">ICLR 2025</span>, Congrats Dexuan! 
 
 * 11.2024 Joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/).
 
