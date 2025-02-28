@@ -10,4 +10,4 @@ I am a reviewer of ACM Computing Surveys (IF=16.6), Neurocomputing (IF=5.5), ACM
 
 | Topic                                                       | Date       | Host  | Description                                                                                                             | Resources                                   |
 |-------------------------------------------------------------|------------|------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| LLM Reasoning: From Learning to Giving Up | 22 Jan 2025 | Prof. Xiaodong Cun | This seminar focuses on the fundamentals of GPT, Chain-of-Thought reasoning, RLHF, and the emergence of OpenAI o1 and DeepSeek-R1.  | [Slides](/files/GPT-CoT talk.pdf)|
+| LLM Reasoning: From Learning to Giving Up | 22 Jan 2025 | Prof. Xiaodong Cun | This seminar focuses on the fundamentals of GPT, Chain-of-Thought reasoning, RLHF, and the emergence of OpenAI o1 and DeepSeek-R1.  | [Slides](/liyun_zhu/files/GPT-CoT talk.pdf)|
