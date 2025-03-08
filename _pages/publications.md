@@ -13,4 +13,4 @@ permalink: /publications/
 
 ## Preprint Papers
 
-Coming soon！
+1. Song, C., Wang, J., **Zhu, L.**, & Weng, H. (2025). Enhancing Monocular 3D Scene Completion with Diffusion Model. (ArXiv). **<span style="color: blue;">An intersting project I did with my friends at ANU ：）</span>**  [[Paper]](https://arxiv.org/abs/2503.00726)  [[Project]](https://github.com/CharlieSong1999/FlashDreamer)

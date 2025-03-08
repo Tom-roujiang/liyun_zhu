@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video anomaly detection, video understanding, vision-language models, and reasoning. He has had the privilege of collaborating with [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida) on multiple research projects. 
+Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video anomaly detection, video understanding, vision-language models, and reasoning. Previously, he had the privilege of collaborating with [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida) on multiple research projects. 
 
 Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by [Prof. Yongfang Wang](https://scie.shu.edu.cn/Prof/wangyf.htm). His academic excellence has been recognized through several awards, including the Active Intelligence Research Challenge Award (2023) and the Self-Improvement Scholarship during his undergraduate studies. Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems.
 
@@ -27,7 +27,7 @@ Liyun has published research in top-tier AI conferences, including NeurIPS and I
 
 * 01.2025 One paper has been accepted at <span style="color: blue;">ICLR 2025</span>, Congrats Dexuan! 
 
-* 11.2024 Joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/).
+* 11.2024 Joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/) and [Dr. Xi Shen](https://xishen0220.github.io).
 
 * 10.2024 I have completed my master thesis - "Advancing Video Anomaly Detection". I am deeply grateful to my supervisor, [Dr. Lei Wang](https://leiwangr.github.io), for his guidance and support throughout this journey.
 
@@ -42,11 +42,7 @@ Liyun has published research in top-tier AI conferences, including NeurIPS and I
 
 * **Bachelor of Electronic Engineering** - Shanghai University (SHU), 2019.09 - 2023.06
 
-<!-- Liyun Zhu is currently pursuing a Master's degree in Machine Learning and Computer Vision at the Australian National University. He is under the guidance of [Dr. Lei Wang](https://leiwangr.github.io) (ANU) and Prof. Chen Chen (UCF).
 
-He is deeply passionate about computer vision and machine learning, with a particular focus on anomaly detection, video understanding, large language models and face forgery detection. 
-
-In recognition of his achievements, Liyun Zhu was honored as the recipient of the Active Intelligence Research Challenge Award in 2023. -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
