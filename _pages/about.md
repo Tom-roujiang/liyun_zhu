@@ -22,6 +22,7 @@ Liyun has published research in top-tier AI conferences, including NeurIPS and I
 
 
 ## News
+* 05.2025 We have released "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning". Thanks to all the co-authors! [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
 
 * 01.2025 One paper has been accepted at <span style="color: blue;">ICLR 2025</span>, Congrats Dexuan! 
 
