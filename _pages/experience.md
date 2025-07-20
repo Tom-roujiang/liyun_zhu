@@ -42,7 +42,7 @@ a:hover, a:active {
 
 ## Academic Research
 
-  - *11/2024 - present*: **Visiting Student**
+  - *11/2024 - 05/2025*: **Visiting Student**
     - School of Computing and Information Technology, Great Bay University, China
     - Supervisor: [Prof. Xiaodong Cun](https://vinthony.github.io/academic/) (GBU)
     - Research project: Vision-Language Model, LLM Reasoning
