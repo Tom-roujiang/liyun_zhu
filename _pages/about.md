@@ -7,21 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is a quantitative researcher at [HiThink](https://www.hithink.sg/#/Home), designing LLM-driven quantitative strategies and optimizing LLM reasoning for finance. He holds an M.S. in Machine Learning & Computer Vision from the Australian National University, with expertise in vision-language models and MLLM reasoning. Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems.
+Liyun Zhu is a Quantitative Researcher at [HiThink](https://www.hithink.sg/#/Home), designing LLM-driven quantitative strategies and optimizing AI for finance. He holds an M.S. in Machine Learning & Computer Vision from the Australian National University, with expertise in vision-language models and MLLM reasoning. Liyun has published in top AI conferences like NeurIPS and ICLR, contributing to intelligent video analysis and reasoning.
 
 <!-- Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video understanding, vision-language models (VLMs), and reasoning. Previously, he had the privilege of collaborating with [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida) on multiple research projects. Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023. Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems. -->
-
 
 <!-- Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video anomaly detection, video understanding, vision-language models, and reasoning. He has had the privilege of collaborating with Dr. Lei Wang (ANU & Data61/CSIRO) and Prof. Chen Chen (University of Central Florida) on multiple research projects.
 
 Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by Prof. Yongfang Wang. His academic excellence has been recognized through several awards, including the Active Intelligence Research Challenge Award (2023) and the Self-Improvement Scholarship during his undergraduate studies.
 
 Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems. -->
-
-<!-- During his undergraduate studies, Liyun participated in Shanghai University's Outstanding Undergraduate Program, initiating his research in this specialized field. -->
-
-<!-- Liyun's academic journey is complemented by extensive industry experience. As a Model Optimization Intern at Biren Tech, a leading Chinese semiconductor company, Liyun contributed to research on advanced large language models and optimized LLM performance in distributed systems across 16 nodes and 128 GPUs. In 2023, he served as a Research Intern at Active Intelligence (Australia), where he developed advanced anomaly detection algorithms and contributed to a novel dataset. Earlier, as an Algorithm Intern at Anji Tech, he focused on the industrial implementation of anomaly detection systems. -->
-
 
 ## News
 * 05.2025 We have released "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning". Thanks to all the co-authors! [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
