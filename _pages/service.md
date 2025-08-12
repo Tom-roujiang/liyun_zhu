@@ -7,7 +7,7 @@ permalink: /service/
 
 Journal Reviewer: ACM Computing Surveys (IF=16.6), IEEE TNNLS (IF=14.25), Neurocomputing (IF=5.5), 
 
-Conference Reviewer: NeurIPS 2025, AAAI2025, ACM MM 2024, ICIP 2024.
+Conference Reviewer: NeurIPS 2025, AAAI2026, ACM MM 2024, ICIP 2024.
 
 ## Research Seminar
 
