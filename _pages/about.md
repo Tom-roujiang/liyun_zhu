@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Liyun Zhu is a Quantitative Researcher at [HiThink](https://www.hithink.sg/#/Home), designing LLM-driven quantitative strategies and optimizing AI for finance. He holds an M.S. in Machine Learning & Computer Vision from the Australian National University, with expertise in vision-language models and MLLM reasoning. Liyun has published in top AI conferences like NeurIPS and ICLR, contributing to intelligent video analysis and reasoning.
+I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I design LLM-powered quantitative investment strategies and optimize AI systems for finance. I hold a Master of Science in Machine Learning & Computer Vision from the Australian National University, specializing in vision-language models and multimodal large language model (MLLM) reasoning.
 
-<!-- Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video understanding, vision-language models (VLMs), and reasoning. Previously, he had the privilege of collaborating with [Dr. Lei Wang](https://leiwangr.github.io) (ANU & Data61/CSIRO) and [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) (University of Central Florida) on multiple research projects. Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023. Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems. -->
 
-<!-- Liyun Zhu is a second-year master's student in Machine Learning and Computer Vision at the Australian National University (ANU). His research focuses on advancing computer vision and machine learning, particularly in video anomaly detection, video understanding, vision-language models, and reasoning. He has had the privilege of collaborating with Dr. Lei Wang (ANU & Data61/CSIRO) and Prof. Chen Chen (University of Central Florida) on multiple research projects.
+Research Interest:
+* LLM / Agent systems for quantitative finance
+* Multimodal Large Language Models / Video understanding
 
-Prior to his master's studies, Liyun earned his Bachelor's degree in Electronic Engineering from Shanghai University in 2023, where he was mentored by Prof. Yongfang Wang. His academic excellence has been recognized through several awards, including the Active Intelligence Research Challenge Award (2023) and the Self-Improvement Scholarship during his undergraduate studies.
-
-Liyun has published research in top-tier AI conferences, including NeurIPS and ICLR, contributing to the broader understanding of intelligent video analysis and reasoning systems. -->
 
 ## News
+* 07.2025 Joining HiThink Research as a quantitative researcher.
+
 * 05.2025 We have released "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning". Thanks to all the co-authors! [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
 
 * 01.2025 One paper has been accepted at <span style="color: blue;">ICLR 2025</span>, Congrats Dexuan! 
