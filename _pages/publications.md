@@ -13,6 +13,11 @@ permalink: /publications/
 
 ## Preprint Papers
 
+1. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
+
 1. **Zhu, L.**, Chen, Q., Shen, X., Cun, X.. (2025). VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning (ArXiv). **<span style="color: blue;">RL-based Video Anomaly Reasoning</span>** [[Paper]](https://arxiv.org/abs/2505.23504) [[Code]](https://github.com/GVCLab/VAU-R1)
 
 1. Song, C., Wang, J., **Zhu, L.**, Weng, H. (2025). Enhancing Monocular 3D Scene Completion with Diffusion Model. (ArXiv). **<span style="color: blue;">An intersting project I did with my friends at ANU ：）</span>**  [[Paper]](https://arxiv.org/abs/2503.00726)  [[Project]](https://github.com/CharlieSong1999/FlashDreamer)
+
+
+\* denotes equal contribution.

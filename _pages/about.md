@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I design LLM-powered quantitative investment strategies and optimize AI systems for finance. I hold a Master of Science in Machine Learning & Computer Vision from the Australian National University, specializing in vision-language models and multimodal large language model (MLLM) reasoning.
+I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I design LLM-driven quantitative investment strategies and optimize AI systems for financial trading.
+I hold a master’s degree in Machine Learning & Computer Vision from the Australian National University, with a focus on vision-language models and LLM reasoning.
 
 
 **Research Interest:**
