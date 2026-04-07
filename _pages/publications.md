@@ -10,10 +10,10 @@ permalink: /publications/
 
 2. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **<span style="color: blue;">ICLR 2025</span>**   [[Paper]](https://arxiv.org/abs/2410.01506)  
 
+3. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. **<span style="color: blue;">ACL 2026</span>**  [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
+
 
 ## Preprint Papers
-
-1. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
 
 1. **Zhu, L.**, Chen, Q., Shen, X., Cun, X.. (2025). VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning (ArXiv). **<span style="color: blue;">RL-based Video Anomaly Reasoning</span>** [[Paper]](https://arxiv.org/abs/2505.23504) [[Code]](https://github.com/GVCLab/VAU-R1)
 

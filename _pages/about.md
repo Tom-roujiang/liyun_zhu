@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I design LLM-driven quantitative investment strategies and optimize AI systems for financial trading.
-I hold a master’s degree in Machine Learning & Computer Vision from the Australian National University, with a focus on vision-language models and LLM reasoning.
+I hold a master’s degree in Machine Learning & Computer Vision from the Australian National University, with a focus on vision-language models and LLM reasoning. 
 
 
 **Research Interest:**
@@ -17,6 +17,8 @@ I hold a master’s degree in Machine Learning & Computer Vision from the Austra
 
 
 ## News
+* 04.2026 One paper has been accepted at <span style="color: blue;">ACL 2026</span>, Congrats Chenxi! 
+
 * 07.2025 Joining HiThink Research as a quantitative researcher.
 
 * 05.2025 We have released "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning". Thanks to all the co-authors! [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
