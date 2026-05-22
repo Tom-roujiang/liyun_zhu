@@ -1,84 +1,44 @@
 ---
 permalink: /
-title: "About Me"
+title: "Liyun Zhu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I design LLM-driven quantitative investment strategies and optimize AI systems for financial trading.
-I hold a master’s degree in Machine Learning & Computer Vision from the Australian National University, with a focus on vision-language models and LLM reasoning. 
+I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Home), where I work on LLM-driven quantitative investment strategies and AI systems for financial trading. I received my master's degree in Machine Learning and Computer Vision from the Australian National University. My research interests span LLM and agent systems for quantitative finance, multimodal large language models, and video understanding.
 
+## Research Interests
 
-**Research Interest:**
-* LLM / Agent systems for quantitative finance
-* Multimodal Large Language Models / Video understanding
+* LLM and agent systems for quantitative finance, including agent-based factor mining, event-driven analysis, trading signal generation, and portfolio optimization
+* Multimodal large language models, video understanding, and anomaly detection
 
+## Selected Publications
 
-## News
-* 04.2026 One paper has been accepted at <span style="color: blue;">ACL 2026</span>, Congrats Chenxi! 
+1. **Zhu, L.**, Wang, L., Raj, A., Gedeon, T., & Chen, C. (2024). Advancing Video Anomaly Detection: A Concise Review and a New Dataset. **<span style="color: blue;">NeurIPS 2024 Dataset and Benchmark Track</span>** [[Paper]](http://arxiv.org/abs/2402.04857) [[Website]](https://msad-dataset.github.io)
 
-* 07.2025 Joining HiThink Research as a quantitative researcher.
+2. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **<span style="color: blue;">ICLR 2025</span>** [[Paper]](https://arxiv.org/abs/2410.01506)
 
-* 05.2025 We have released "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning". Thanks to all the co-authors! [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
+3. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. **<span style="color: blue;">arXiv 2026</span>** [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
 
-* 01.2025 One paper has been accepted at <span style="color: blue;">ICLR 2025</span>, Congrats Dexuan! 
+4. **Zhu, L.**, Chen, Q., Shen, X., & Cun, X. (2025). VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning. **<span style="color: blue;">arXiv 2025</span>** [[Paper]](https://arxiv.org/abs/2505.23504) [[Code]](https://github.com/GVCLab/VAU-R1)
 
-* 11.2024 Joining GBU as a visiting student under the supervision of [Prof. Xiaodong Cun](https://vinthony.github.io/academic/) and [Dr. Xi Shen](https://xishen0220.github.io).
+5. Song, C., Wang, J., **Zhu, L.**, & Weng, H. (2025). Enhancing Monocular 3D Scene Completion with Diffusion Model. **<span style="color: blue;">Course Project</span>** [[Paper]](https://arxiv.org/abs/2503.00726) [[Project]](https://github.com/CharlieSong1999/FlashDreamer)
 
-* 10.2024 I have completed my master thesis - "Advancing Video Anomaly Detection". I am deeply grateful to my supervisor, [Dr. Lei Wang](https://leiwangr.github.io), for his guidance and support throughout this journey.
+\* denotes equal contribution.
 
-* 09.2024 One paper has been accepted at <span style="color: blue;">NeurIPS 2024 Dataset and Benchmark Track</span> (25.3% acceptance rate). 
+## Service
 
-* 09.2024 Our research on video anomaly detection was showcased through a **poster presentation at the ANU Student Research Conference**. I am honored to be one of the 25 speakers.
+**Journal Reviewer:** ACM Computing Surveys, IEEE TNNLS, Neurocomputing.
 
+**Conference Reviewer:** NeurIPS 2026, NeurIPS 2025, AAAI 2026, ACM MM 2024, ICIP 2024.
 
 ## Education
 
-* **Master of Machine Learning and Computer Vision** - Australian National University (ANU), 2023.07 - 2025.06
+* **Master of Machine Learning and Computer Vision**, Australian National University, 2023.07 - 2025.06
+* **Bachelor of Electronic Engineering**, Shanghai University, 2019.09 - 2023.06
 
-* **Bachelor of Electronic Engineering** - Shanghai University (SHU), 2019.09 - 2023.06
+## Contact
 
-
-
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
-<!-- A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+Email: [zhuliyun_2000@163.com](mailto:zhuliyun_2000@163.com)
