@@ -11,8 +11,8 @@ I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Ho
 
 ## Research Interests
 
-* LLM and agent systems for quantitative finance, including agent-based factor mining, event-driven analysis, trading signal generation, and portfolio optimization
-* Multimodal large language models, video understanding, and anomaly detection
+* **Agent systems for quantitative finance**, including factor mining, event-driven analysis, trading signal generation, and portfolio optimization
+* **Multimodal large language models**, video understanding, and anomaly detection
 
 ## Selected Publications
 
@@ -24,7 +24,6 @@ I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Ho
 
 4. **Zhu, L.**, Chen, Q., Shen, X., & Cun, X. (2025). VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning. **<span style="color: blue;">arXiv 2025</span>** [[Paper]](https://arxiv.org/abs/2505.23504) [[Code]](https://github.com/GVCLab/VAU-R1)
 
-5. Song, C., Wang, J., **Zhu, L.**, & Weng, H. (2025). Enhancing Monocular 3D Scene Completion with Diffusion Model. **<span style="color: blue;">Course Project</span>** [[Paper]](https://arxiv.org/abs/2503.00726) [[Project]](https://github.com/CharlieSong1999/FlashDreamer)
 
 \* denotes equal contribution.
 
@@ -34,11 +33,11 @@ I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Ho
 
 **Conference Reviewer:** NeurIPS 2026, NeurIPS 2025, AAAI 2026, ACM MM 2024, ICIP 2024.
 
-## Education
+<!-- ## Education
 
 * **Master of Machine Learning and Computer Vision**, Australian National University, 2023.07 - 2025.06
-* **Bachelor of Electronic Engineering**, Shanghai University, 2019.09 - 2023.06
+* **Bachelor of Electronic Engineering**, Shanghai University, 2019.09 - 2023.06 -->
 
 ## Contact
 
-Email: [zhuliyun_2000@163.com](mailto:zhuliyun_2000@163.com)
+**Email:** [zhuliyun_2000@163.com](mailto:zhuliyun_2000@163.com)
