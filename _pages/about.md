@@ -20,7 +20,7 @@ I am a Quantitative Researcher at [HiThink Research](https://www.hithink.sg/#/Ho
 
 2. Ding, D., Wang, L., **Zhu, L.**, Gedeon, T., & Koniusz, P. (2024). LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. **<span style="color: blue;">ICLR 2025</span>** [[Paper]](https://arxiv.org/abs/2410.01506)
 
-3. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. **<span style="color: blue;">arXiv 2026</span>** [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
+3. Zhang, C.\*, Gan, Z.\*, **Zhu, L.\***, Pang, Y., Zhang, Q., & Zhang, R. (2026). FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation. **<span style="color: blue;">NeurIPS 2026</span>** [[Paper]](https://arxiv.org/abs/2602.03130) [[Code]](https://github.com/HiThink-Research/FinMTM)
 
 4. **Zhu, L.**, Chen, Q., Shen, X., & Cun, X. (2025). VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning. **<span style="color: blue;">arXiv 2025</span>** [[Paper]](https://arxiv.org/abs/2505.23504) [[Code]](https://github.com/GVCLab/VAU-R1)
 
